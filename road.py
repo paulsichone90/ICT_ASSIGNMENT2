@@ -1,4 +1,6 @@
 # accept user name
+
+print("hello world")
 name = input("Emter your name?: ")
 # accept user math score
 maths_score = int(input("Enter your maths result: "))
